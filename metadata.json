@@ -1,0 +1,6 @@
+{
+  "name": "ParentCare",
+  "description": "Remote medication and insulin monitoring app for elderly parents and adult children caregivers with Tamil & English voice reminders and photo verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
